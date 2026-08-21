@@ -9,4 +9,11 @@ Controla o LED pelo pino 10
 
 ### Materiais necessários:
 
-
+| Qtd | Componente |
+|-----|------------|
+| 1 | Placa Arduino UNO |
+| 1 | Cabo USB |
+| 1 | Protoboard |
+| 1 | Micro servo |
+| 1 | Potenciômetro |
+| — | Fios de jumper macho-macho |
