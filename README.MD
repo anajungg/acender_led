@@ -14,6 +14,8 @@ Controla o LED pelo pino 10
 | 1 | Placa Arduino UNO |
 | 1 | Cabo USB |
 | 1 | Protoboard |
-| 1 | Micro servo |
-| 1 | Potenciômetro |
+| 1 | Resistor de 220 Ω |
+| 1 | Resistor de 10 kΩ |
+| 1 | Botão tipo push button |
+| 1 | LED vermelho difuso de 5 mm |
 | — | Fios de jumper macho-macho |
